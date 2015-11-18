@@ -1,1 +1,3 @@
-[arduino via ruby](http://code.tutsplus.com/articles/using-ruby-to-program-arduino--cms-21893)
+- [arduino via ruby](http://code.tutsplus.com/articles/using-ruby-to-program-arduino--cms-21893)
+- [Using Ruby to interface with Arduino](http://playground.arduino.cc/Interfacing/Ruby)
+- [rhino trotec tutorial](http://staff.mica.edu/rmckibbin/Lasers/Rhino_to_Trotec.html)
